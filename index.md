@@ -15,5 +15,6 @@ permalink: /
 ## Links
 
 - [プライバシーポリシー](./privacy/) / [Privacy Policy (English)](./privacy.en/)
+- [免責事項](./disclaimer/) / [Disclaimer (English)](./disclaimer.en/)
 - [サポート](./support/) / [Support (English)](./support.en/)
 - お問い合わせ: <https://github.com/masamichi-lab/Hitoiki/issues/new>
