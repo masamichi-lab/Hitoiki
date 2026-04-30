@@ -24,10 +24,6 @@ The App is a general-purpose lifelog tool for recording and reflecting on emotio
 
 The developer may change, suspend, or discontinue any part of the App at any time without notice. The developer is not liable for any damages resulting from such changes.
 
-## Governing Law
-
-This disclaimer is governed by the laws of Japan. Any disputes arising in connection with it shall be subject to the exclusive jurisdiction of the Tokyo District Court as the court of first instance.
-
 ## Contact
 
 For questions, please open an issue on GitHub:
