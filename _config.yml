@@ -1,0 +1,9 @@
+title: ひといき (Hitoiki)
+description: 子育ての怒りや戸惑いを書きとめて、ひといきの時間を取り戻すアプリ
+theme: jekyll-theme-minimal
+permalink: /:basename/
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
